@@ -1,0 +1,9 @@
+int uno, dos, tres;
+char caract;
+float a[3];
+int b[2][2];
+
+func void main(int four){
+	char X;
+	return 0;
+}
